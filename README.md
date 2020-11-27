@@ -2,7 +2,7 @@
 <h3> Herramienta para eliminar o instalar programas preinstalados de Windows10 </h3>
 <br/>
 <p align="center">
-<img src="https://github.com/wrrulos/tool10/blob/main/img-github/tool10.PNG" title="Tool10">
+<img src="https://github.com/wrrulos/tool10/blob/main/img-github/Tool10.PNG" title="Tool10">
 </p>
 <br/>
 
@@ -23,7 +23,7 @@
 
 ## Screenshots
 
-<img src="https://github.com/wrrulos/tool10/blob/main/img-github/tool10-1.PNG">
+<img src="https://github.com/wrrulos/Tool10/blob/main/img-github/Tool10-1.PNG">
 
 ## Tutorial 
 

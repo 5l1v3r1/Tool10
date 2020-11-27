@@ -23,7 +23,7 @@
 
 ## Screenshots
 
-<img src="https://github.com/wrrulos/tool10/blob/main/img-github/tool10.PNG">
+<img src="https://github.com/wrrulos/tool10/blob/main/img-github/tool10-1.PNG">
 
 ## Tutorial 
 

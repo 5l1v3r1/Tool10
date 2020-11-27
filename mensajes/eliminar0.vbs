@@ -1,0 +1,1 @@
+msgbox "El programa se desinstalo correctamente!",0,"Tool10 " 

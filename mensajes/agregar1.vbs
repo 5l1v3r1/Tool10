@@ -1,0 +1,1 @@
+msgbox "El programa se instalo correctamente!",0,"Tool10 " 

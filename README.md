@@ -2,11 +2,8 @@
 <h3> Herramienta para eliminar o instalar programas preinstalados de Windows10 </h3>
 <br/>
 <p align="center">
-<img src="https://imgur.com/t8H61TE.jpg" title="CITTZ">
+<img src="https://github.com/wrrulos/tool10/blob/main/img-github/tool10.PNG" title="Tool10">
 </p>
-<br/>
-
-<img src="https://imgur.com/TAuS5PE.jpg"> <img src="https://imgur.com/4NzFbFQ.jpg"> <img src="https://imgur.com/l2vHvj8.jpg"> <img src="https://imgur.com/mCapHNr.jpg"> <img src="https://imgur.com/4mZdxc8.jpg"> <img src="https://imgur.com/x4ikBPI.jpg">
 <br/>
 
 ## Versiones de Windows compatibles  
@@ -26,7 +23,7 @@
 
 ## Screenshots
 
-<img src="https://github.com/wrrulos/CITTZ/blob/main/img-github/cittz-linux.png">
+<img src="https://github.com/wrrulos/tool10/blob/main/img-github/tool10.PNG">
 
 ## Tutorial 
 

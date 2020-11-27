@@ -6,17 +6,6 @@
 </p>
 <br/>
 
-## Versiones de Windows compatibles  
-
-
-|     S.O      |   Estado      |
-|--------------|---------------| 
-| Windows 10   | Compatible    |
-| Windows 8.1  | Compatible    |
-| Windows 8    | Compatible    |
-| Windows 7    | Compatible    |
-| Windows XP   | Compatible    |
-
 # Como usar
 
 * Ejecutar el archivo "Tool10.bat"
